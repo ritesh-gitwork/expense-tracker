@@ -47,14 +47,14 @@ A modern, AI-powered expense tracking web application built with Next.js 15, fea
 
 ### Backend & Database
 
-- **[Neon](https://get.neon.com/0pFcBSF)** - Serverless PostgreSQL database
+- **[Neon](https://get.neon.com)** - Serverless PostgreSQL database
 - **[Prisma](https://prisma.io)** - Type-safe database ORM
 - **Server Actions** - Direct server functions in Next.js
 
 ### AI & Authentication
 
 - **[OpenRouter](https://openrouter.ai)** - Free AI API access without credit cards
-- **[Clerk](https://go.clerk.com/WSe7K8F)** - Complete authentication solution
+- **[Clerk](https://go.clerk.com)** - Complete authentication solution
 - **OpenAI Compatible API** - For intelligent expense categorization
 
 ### Deployment
@@ -73,7 +73,7 @@ A modern, AI-powered expense tracking web application built with Next.js 15, fea
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/ritesh-gitwork/expense-tracker
    cd expense-tracker
    ```
 
@@ -178,7 +178,7 @@ The application uses a simple yet effective database schema:
 
 - **[Neon Database](https://get.neon.com)** - Serverless PostgreSQL
 - **[Clerk Authentication](https://go.clerk.com)** - User management
-- **[GitHub Repository](https://github.com/)** - Source code
+- **[GitHub Repository](https://github.com/ritesh-gitwork/expense-tracker)** - Source code
 - **[Next.js Documentation](https://nextjs.org)** - Framework docs
 - **[Tailwind CSS](https://tailwindcss.com)** - Styling framework
 - **[Vercel Platform](https://vercel.com)** - Deployment platform
