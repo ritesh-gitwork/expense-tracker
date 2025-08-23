@@ -13,6 +13,10 @@
 # testing
 /coverage
 
+// pdf
+.pdf
+
+
 # next.js
 /.next/
 /out/
