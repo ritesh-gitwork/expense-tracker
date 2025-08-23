@@ -14,7 +14,7 @@
 /coverage
 
 // pdf
-.pdf
+*.pdf
 
 
 # next.js
