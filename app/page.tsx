@@ -7,6 +7,7 @@ import RecordHistory from '@/components/RecordHistory';
 import { currentUser } from '@clerk/nextjs/server';
 
 export default async function HomePage() {
+  console.log()
   const user = await currentUser();
   if (!user) {
     return <Guest />;
